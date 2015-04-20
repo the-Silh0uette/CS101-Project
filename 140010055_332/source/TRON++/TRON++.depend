@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1429349597 source:d:\coding\allegro\tron++\final tron++\tron++\tron.cpp
+	<allegro.h>
+	<iostream>
+
+1429350038 source:d:\coding\allegro\tron++\final tron++\tron++\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<string>
+	<iostream>
+
+1429349918 source:d:\coding\allegro\tron++\final tron++\tron++\snake.cpp
+	<allegro.h>
+	<iostream>
+
+1429350185 source:d:\coding\allegro\tron++\final tron++\tron++\curve.cpp
+	<allegro.h>
+	<iostream>
+
+1429359523 source:c:\users\yedukrishnan\desktop\140010055_322\source\tron++\main.cpp
+	<allegro.h>
+	<string>
+	<iostream>
+
+1429358879 source:c:\users\yedukrishnan\desktop\140010055_322\source\tron++\tron.cpp
+	<allegro.h>
+	<iostream>
+
+1429360639 source:c:\users\yedukrishnan\desktop\140010055_322\source\tron++\snake.cpp
+	<allegro.h>
+	<iostream>
+
+1429360843 source:c:\users\yedukrishnan\desktop\140010055_322\source\tron++\curve.cpp
+	<allegro.h>
+	<iostream>
+

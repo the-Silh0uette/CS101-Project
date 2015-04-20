@@ -1,0 +1,37 @@
+Year: 2015
+
+Course: CS101
+
+Group number: 332
+
+Project Title: TRON++
+
+Member1 Name: Yedukrishnan P	
+Member1 Roll Number: 140010055
+
+Member2 Name: Anish Puthuraya
+	Member2 Roll Number: 140010035
+
+Member3 Name: Raunak Shrivastava
+Member3 Roll Number: 14D170025
+
+Member4 Name: Ankush Nagulwar	
+Member4 Roll Number: 14D170016
+
+User Manual:
+
+Setting up allegro:
+1. Download allegro mingw 4.2.3 from www.allegro.cc/files. Link is given in the video description on YouTube.
+2. Copy the contents of the bin, include and lib folder into the corresponding folder inside your Codeblocks installed folder.
+3. Open Codeblocks. Go to Settings->Compiler and Debugger.
+4. Go to Linker Tab and load the 7 new files from folder 'lib'.
+5. Go to Search Tab and load the 'include' folder.
+
+To start the game:
+1. Load the TRON++.cbp file from the source code folder 'TRON++'.
+2. Compile the main function.
+3. Enjoy the game!.
+
+Check the link given below for the complete tutorial on setting up the game on Codeblocks.
+YouTube Video Link: https://www.youtube.com/watch?v=c_LUS0WopEk&feature=youtu.be
+
